@@ -7,4 +7,5 @@ __pycache__/
 !.env.example
 third_party/
 logs/
+.research_cache/
 *.tmp

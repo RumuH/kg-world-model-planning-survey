@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     papers = json.loads((ROOT / 'data/papers.json').read_text())
     with (ROOT / 'data/papers.csv').open('w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=list(papers[0]))
+        writer = csv.DictWriter(f, fieldnames=list(papers[0]), lineterminator='\n')
         writer.writeheader()
         writer.writerows(papers)
     lines = ['# 论文卡片', '', '核验日期：2026-10-23。P0/P1/P2 为本课题阅读优先级，不是质量评级。代码栏可能为项目页或资料列表；未核实的地址不补猜。', '']
