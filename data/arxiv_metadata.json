@@ -1,0 +1,131 @@
+[
+  {
+    "arxiv_id": "2407.04363",
+    "license_urls": [
+      "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    ],
+    "links": [
+      "https://github.com/AIRI-Institute/AriGraph",
+      "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    ],
+    "title": [
+      "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents"
+    ],
+    "authors": [
+      "Anokhin, Petr",
+      "Semenov, Nikita",
+      "Sorokin, Artyom",
+      "Evseev, Dmitry",
+      "Kravchenko, Andrey",
+      "Burtsev, Mikhail",
+      "Burnaev, Evgeny"
+    ],
+    "checked_at": "2026-10-23"
+  },
+  {
+    "arxiv_id": "2410.09252",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [],
+    "title": [
+      "DAVIS: Planning Agent with Knowledge Graph-Powered Inner Monologue"
+    ],
+    "authors": [
+      "Dinh, Minh Pham",
+      "Syed, Munira",
+      "Yankoski, Michael G",
+      "Ford, Trenton W."
+    ],
+    "checked_at": "2026-10-23"
+  },
+  {
+    "arxiv_id": "2602.04129",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "links": [],
+    "title": [
+      "KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning"
+    ],
+    "authors": [
+      "Shek, Chak Lam",
+      "Tariq, Faizan M.",
+      "Bae, Sangjae",
+      "Isele, David",
+      "Gupta, Piyush"
+    ],
+    "checked_at": "2026-10-23"
+  },
+  {
+    "arxiv_id": "2411.14499",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [
+      "https://github.com/tsinghua-fib-lab/World-Model"
+    ],
+    "title": [
+      "Understanding World or Predicting Future? A Comprehensive Survey of World Models"
+    ],
+    "authors": [
+      "Ding, Jingtao",
+      "Zhang, Yunke",
+      "Shang, Yu",
+      "Feng, Jie",
+      "Zhang, Yuheng",
+      "Zong, Zefang",
+      "Yuan, Yuan",
+      "Su, Hongyuan",
+      "Li, Nian",
+      "Piao, Jinghua",
+      "Deng, Yucheng",
+      "Sukiennik, Nicholas",
+      "Gao, Chen",
+      "Xu, Fengli",
+      "Li, Yong"
+    ],
+    "checked_at": "2026-10-23"
+  },
+  {
+    "arxiv_id": "2405.14205",
+    "license_urls": [
+      "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    ],
+    "links": [
+      "https://github.com/zjunlp/WKM",
+      "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    ],
+    "title": [
+      "Agent Planning with World Knowledge Model"
+    ],
+    "authors": [
+      "Qiao, Shuofei",
+      "Fang, Runnan",
+      "Zhang, Ningyu",
+      "Zhu, Yuqi",
+      "Chen, Xiang",
+      "Deng, Shumin",
+      "Jiang, Yong",
+      "Xie, Pengjun",
+      "Huang, Fei",
+      "Chen, Huajun"
+    ],
+    "checked_at": "2026-10-23"
+  },
+  {
+    "arxiv_id": "2606.27780",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "links": [],
+    "title": [
+      "Understanding Rollout Error in Graph World Models"
+    ],
+    "authors": [
+      "Song, Xinyuan",
+      "Cai, Zekun"
+    ],
+    "checked_at": "2026-10-23"
+  }
+]

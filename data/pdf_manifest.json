@@ -1,0 +1,65 @@
+[
+  {
+    "id": "P01",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "authors": [
+      "Ding, Jingtao",
+      "Zhang, Yunke",
+      "Shang, Yu",
+      "Feng, Jie",
+      "Zhang, Yuheng",
+      "Zong, Zefang",
+      "Yuan, Yuan",
+      "Su, Hongyuan",
+      "Li, Nian",
+      "Piao, Jinghua",
+      "Deng, Yucheng",
+      "Sukiennik, Nicholas",
+      "Gao, Chen",
+      "Xu, Fengli",
+      "Li, Yong"
+    ],
+    "version": "2411.14499v4",
+    "source": "https://arxiv.org/pdf/2411.14499v4",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": false,
+    "path": "papers/P01_2411.14499v4.pdf",
+    "sha256": "7d9c40527bcd16bc0bf4c9cb8adcc2b58e9ba19e51df213df6d958ab532fdfbd",
+    "bytes": 5880973,
+    "retrieved_at": "2026-10-23"
+  },
+  {
+    "id": "P08",
+    "title": "DAVIS: Planning Agent with Knowledge Graph-Powered Inner Monologue",
+    "authors": [
+      "Dinh, Minh Pham",
+      "Syed, Munira",
+      "Yankoski, Michael G",
+      "Ford, Trenton W."
+    ],
+    "version": "2410.09252v2",
+    "source": "https://arxiv.org/pdf/2410.09252v2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": false,
+    "path": "papers/P08_2410.09252v2.pdf",
+    "sha256": "da149af6200311313d83ee2580f19971a1df25dabd03d589a316320d402e3c1e",
+    "bytes": 1458507,
+    "retrieved_at": "2026-10-23"
+  },
+  {
+    "id": "P10",
+    "title": "Understanding Rollout Error in Graph World Models",
+    "authors": [
+      "Song, Xinyuan",
+      "Cai, Zekun"
+    ],
+    "version": "2606.27780v3",
+    "source": "https://arxiv.org/pdf/2606.27780v3",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "modified": false,
+    "path": "papers/P10_2606.27780v3.pdf",
+    "sha256": "da280a5fc1882d82393a5eef34f80954b49781819d844d7bbd3eeaa465943a7f",
+    "bytes": 2174939,
+    "retrieved_at": "2026-10-23"
+  }
+]
